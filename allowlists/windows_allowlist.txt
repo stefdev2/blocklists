@@ -1,0 +1,72 @@
+# --- Windows Update / Delivery Optimization ---
+download.microsoft.com
+fe2.update.microsoft.com
+fe2cr.update.microsoft.com
+fe3.delivery.mp.microsoft.com
+fe3cr.delivery.mp.microsoft.com
+sls.update.microsoft.com
+slscr.update.microsoft.com
+dl.delivery.mp.microsoft.com
+tlu.dl.delivery.mp.microsoft.com
+au.download.windowsupdate.com
+ds.download.windowsupdate.com
+download.windowsupdate.com
+ctldl.windowsupdate.com
+update.microsoft.com
+windowsupdate.microsoft.com
+www.update.microsoft.com
+www.windowsupdate.com
+emdl.ws.microsoft.com
+dlassets.ws.microsoft.com
+
+# --- Activation and licensing ---
+activation.sls.microsoft.com
+activation-v2.sls.microsoft.com
+validation.sls.microsoft.com
+validation-v2.sls.microsoft.com
+licensing.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+purchase.mp.microsoft.com
+
+# --- Microsoft Store and winget ---
+storeedgefd.dsx.mp.microsoft.com
+store-images.s-microsoft.com
+cdn.winget.microsoft.com
+fs.microsoft.com
+storecatalogrevocation.storequality.microsoft.com
+
+# --- Microsoft account / Entra sign-in ---
+login.live.com
+account.live.com
+account.microsoft.com
+login.microsoftonline.com
+login.windows.net
+login.microsoft.com
+clientconfig.passport.net
+aadcdn.msauth.net
+logincdn.msauth.net
+aadcdn.msftauth.net
+acctcdn.msftauth.net
+logincdn.msftauth.net
+
+# --- Connectivity check and time sync ---
+www.msftconnecttest.com
+ipv6.msftconnecttest.com
+dns.msftncsi.com
+www.msftncsi.com
+time.windows.com
+
+# --- Defender definitions, certificates, revocation ---
+definitionupdates.microsoft.com
+go.microsoft.com
+www.microsoft.com
+crl.microsoft.com
+mscrl.microsoft.com
+oneocsp.microsoft.com
+ocsp.msocsp.com
+
+# --- Windows 11 ISO download page (only needed while downloading) ---
+vlscppe.microsoft.com
+software.download.prss.microsoft.com
+software-static.download.prss.microsoft.com
+aka.ms
