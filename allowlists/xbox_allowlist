@@ -1,0 +1,33 @@
+# --- Xbox Live sign-in and services ---
+xboxlive.com
+user.auth.xboxlive.com
+device.auth.xboxlive.com
+title.auth.xboxlive.com
+xsts.auth.xboxlive.com
+profile.xboxlive.com
+social.xboxlive.com
+presence.xboxlive.com
+achievements.xboxlive.com
+userstats.xboxlive.com
+titlehub.xboxlive.com
+peoplehub.xboxlive.com
+gamerpic.xboxlive.com
+
+# --- Xbox site, account, Game Pass ---
+xbox.com
+www.xbox.com
+account.xbox.com
+gamepass.com
+www.gamepass.com
+xboxservices.com
+
+# --- Game downloads and assets ---
+assets1.xboxlive.com
+assets2.xboxlive.com
+dlassets.xboxlive.com
+dlassets-ssl.xboxlive.com
+xvcf1.xboxlive.com
+xvcf2.xboxlive.com
+
+# --- NAT / multiplayer connectivity ---
+teredo.ipv6.microsoft.com
